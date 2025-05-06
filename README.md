@@ -11,10 +11,6 @@ This model was developed for the short-run macroeconomic analysis in my Intermed
 - **shinyapp_ch13_AD_AS.R**  
   This is the main file for the Chapter 13 model.
 
-- **ch_13_program_and_formulas.R**  
-  This project implements the AD-AS model to display the paper formulas and allows selection of a period to show the corresponding numbers.  
-  **Note:** This project also contains a calculation error that occurs during the paper formula addition process. It is provided for reference only and should not be used to edit the formulas or code of the Shiny app.
-
 - **ch13_master.qmd**  
   This file contains older models as well as current and additional code for Chapter 13 and/or the Short-Run model.
 
